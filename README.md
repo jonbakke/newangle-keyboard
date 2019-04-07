@@ -2,6 +2,8 @@
 
 This is my solution for a portable, ergonomic keyboard.
 
+[photo of early NewAngle keyboard](https://github.com/jonbakke/newangle-keyboard/blob/master/NewAngle.png)
+
 It has 37 keys yet includes features like mousekeys and the ability to hit "F14-Super-Alt-Control" without moving one's fingers very far from their home keys. It does this by overloading the thumbs, which are my strongest and nearly my most dextrous phalanges yet which are barely used with a normal keyboard. I built mine with Cherry ML switches.
 
 The name "NewAngle" reflects three things: my inability to come up with good names, the angular ergonomics, and that I haven't seen these concepts combined like this before. The layout (and camelCase name) borrows heavy from concepts developed by the ErgoDox and TextBlade. The ErgoDox has a nice thumb cluster, which becomes a game-changer when combined with the function layers enabled by the TMK and QMK firmware. The TextBlade shows that a compact board can still do a lot of things, if the user is willing to re-train their muscle memory a bit.
